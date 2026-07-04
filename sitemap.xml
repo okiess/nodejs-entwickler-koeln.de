@@ -2,19 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nodejs-entwickler-koeln.de/</loc>
-    <lastmod>2025-06-12T13:54:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://nodejs-entwickler-koeln.de</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://nodejs-entwickler-koeln.de/impressum.html</loc>
-    <priority>0.5</priority>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
   <url>
     <loc>https://nodejs-entwickler-koeln.de/datenschutz.html</loc>
-    <priority>0.5</priority>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
 </urlset>
